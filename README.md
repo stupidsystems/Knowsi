@@ -1,2 +1,2 @@
 # Knowsi
-Knowsi API and webhooks
+Public Issues and Milestones for Knowsi
